@@ -6,11 +6,11 @@ Armstrong Sayıyı Bulma Programı
 
 sayi = int(input("Bir Sayı Giriniz: "))
 
-toplam = 0
-
 geciciSayi = sayi
 
 list1 = []
+
+toplam = 0
 
 while (geciciSayi > 0 ):
   
